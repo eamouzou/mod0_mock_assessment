@@ -1,0 +1,32 @@
+1. Gather dirty clothes
+  1.1 walk to hamper
+  1.2 push down clothes
+    1.2.1 put two hands palms down on top of clothes
+    1.2.2 push using force from shoulder
+  1.3 add more dirty clothes
+    1.3.1 pick up clothes on the floor
+    1.3.2 put floor clothes in hamper
+2. Separate clothes
+  2.1 identify white clothes and color clothes
+  2.2 put white clothes in grey hamper
+  2.3 put color clothes in black hamper
+3. Bring clothes to washer
+  3.1 pick up black hamper
+  3.2 walk to washer location
+  3.3 put down black hamper
+4. Start washer
+  4.1 select water temperature
+  4.2 select load type
+  4.3 open washer lid
+  4.3 press start
+  4.4 put detergent in washer water
+    4.4.1 pour detergent into detergent cap
+    4.4.2 pour detergent cap content into the washer water
+  4.5 put black hamper clothes in washer
+  4.6 close washer lid
+5. Take out washed clothes
+6. Put washed clothes in dryer
+7. Start dryer
+8. Take out dried clothes
+9. Fold clothes
+10. Put folded clothes in closet
