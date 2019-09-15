@@ -1,0 +1,15 @@
+Class: Chair
+
+Attributes:
+color (string)
+legsQuantity (integer)
+armrests (boolean)
+recliner (boolean)
+materialType (string)
+backpost (boolean)
+
+Methods:
+changeColor (changes the color attribute)
+increaseLegsQuantity (increases the legsQuantity attribute by 1)
+decreaseLegsQuantity (decreases the legsQuantity attribute by 1)
+changeMaterialType (changes the materialType attribute) 
