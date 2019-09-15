@@ -1,0 +1,14 @@
+Class: Chair
+
+Attributes:
+color (string)
+legsQuantity (integer)
+armrests (boolean)
+recliner (boolean)
+materialType (string)
+backpost (boolean)
+
+Methods:
+changeColor: color = "Red"
+changeMaterialType: materialType = "Wood"
+increaseLegsQuantity: 1 + 1 = 2
